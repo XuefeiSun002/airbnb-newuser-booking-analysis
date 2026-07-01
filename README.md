@@ -31,3 +31,11 @@ The target variable is:
 ```text
 is_booked = 1 if country_destination != "NDF"
 is_booked = 0 if country_destination == "NDF"
+
+## Notebook
+
+The full analysis is included in one Jupyter Notebook:
+
+- `notebooks/Airbnb_New_User_Booking_Analysis.ipynb`
+
+The notebook includes data cleaning, feature engineering, exploratory analysis, behavior funnel analysis, high-intent user segmentation, and booking prediction modeling.
