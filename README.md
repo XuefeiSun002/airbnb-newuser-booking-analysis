@@ -32,6 +32,7 @@ The target variable is:
 is_booked = 1 if country_destination != "NDF"
 is_booked = 0 if country_destination == "NDF"
 
+---
 ## Notebook
 
 The full analysis is included in one Jupyter Notebook:
