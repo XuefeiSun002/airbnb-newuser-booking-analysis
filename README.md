@@ -31,8 +31,9 @@ The target variable is:
 ```text
 is_booked = 1 if country_destination != "NDF"
 is_booked = 0 if country_destination == "NDF"
-
+Raw data is not uploaded due to Kaggle competition rules. Please download the dataset from Kaggle and place it under data/raw/.
 ---
+
 ## Notebook
 
 The full analysis is included in one Jupyter Notebook:
